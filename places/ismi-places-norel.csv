@@ -1,0 +1,418 @@
+﻿name,type,id,uri,part_of_name,part_of_type,part_of_id
+Aden,city,85243,https://ismi.mpiwg-berlin.mpg.de/place/85243,null,null,null
+Adrianopel,city,85589,https://ismi.mpiwg-berlin.mpg.de/place/85589,null,null,null
+Afghanistan,country,179798,https://ismi.mpiwg-berlin.mpg.de/place/179798,null,null,null
+"Afshana, near Bukhārā (Uzbekistan)",city,85213,https://ismi.mpiwg-berlin.mpg.de/place/85213,null,null,null
+Afyon,city,87434,https://ismi.mpiwg-berlin.mpg.de/place/87434,Turkey,country,174510
+"Agarfa, Bale",city,330886,https://ismi.mpiwg-berlin.mpg.de/place/330886,Ethiopia,country,330883
+Adana,city,88263,https://ismi.mpiwg-berlin.mpg.de/place/88263,Turkey,country,174510
+Ahmadabad,city,87895,https://ismi.mpiwg-berlin.mpg.de/place/87895,India,country,174638
+Aḥmadiyya,madrasa,24358,https://ismi.mpiwg-berlin.mpg.de/place/24358,Aleppo,city,85486
+Ahmedabad,null,529683,https://ismi.mpiwg-berlin.mpg.de/place/529683,India,country,174638
+Ahwaz,null,361847,https://ismi.mpiwg-berlin.mpg.de/place/361847,null,null,null
+Akbarabad,city,87782,https://ismi.mpiwg-berlin.mpg.de/place/87782,Iran,country,174469
+Akşehir,city,86833,https://ismi.mpiwg-berlin.mpg.de/place/86833,null,null,null
+al-Madrasaẗ al-Šāmiyyaẗ,madrasa,123652,https://ismi.mpiwg-berlin.mpg.de/place/123652,Damascus,city,85658
+al-Jazīratān,city_district,22121,https://ismi.mpiwg-berlin.mpg.de/place/22121,null,null,null
+Aleppo,city,85486,https://ismi.mpiwg-berlin.mpg.de/place/85486,Syria,country,174694
+Alexandria,city,87102,https://ismi.mpiwg-berlin.mpg.de/place/87102,Egypt,country,173189
+Algeria,country,173275,https://ismi.mpiwg-berlin.mpg.de/place/173275,null,null,null
+Algiers,city,87820,https://ismi.mpiwg-berlin.mpg.de/place/87820,Algeria,country,173275
+Aligarh,city,86794,https://ismi.mpiwg-berlin.mpg.de/place/86794,India,country,174638
+Almeria,city,490235,https://ismi.mpiwg-berlin.mpg.de/place/490235,Spain,country,174730
+Amasya,city,525362,https://ismi.mpiwg-berlin.mpg.de/place/525362,Turkey,country,174510
+Amsterdam,city,86472,https://ismi.mpiwg-berlin.mpg.de/place/86472,Netherlands,country,174707
+Amul,city,390537,https://ismi.mpiwg-berlin.mpg.de/place/390537,Turkmenistan,country,178885
+Anatolia,region,482813,https://ismi.mpiwg-berlin.mpg.de/place/482813,Turkey,country,174510
+Andalusia,country,93261,https://ismi.mpiwg-berlin.mpg.de/place/93261,null,null,null
+Ankara,city,87724,https://ismi.mpiwg-berlin.mpg.de/place/87724,Turkey,country,174510
+Ankara (Enguriye),city,85621,https://ismi.mpiwg-berlin.mpg.de/place/85621,null,null,null
+"Ann Arbor, MI",city,44343,https://ismi.mpiwg-berlin.mpg.de/place/44343,USA,country,173554
+Antakya,city,462175,https://ismi.mpiwg-berlin.mpg.de/place/462175,Turkey,country,174510
+Antalya,city,411067,https://ismi.mpiwg-berlin.mpg.de/place/411067,Turkey,country,174510
+Ardabil,city,480382,https://ismi.mpiwg-berlin.mpg.de/place/480382,Azerbaijan,country,178920
+Armenia,country,173852,https://ismi.mpiwg-berlin.mpg.de/place/173852,null,null,null
+Arrajān,city,325114,https://ismi.mpiwg-berlin.mpg.de/place/325114,null,null,null
+Ashqabad,city,87019,https://ismi.mpiwg-berlin.mpg.de/place/87019,Turkmenistan,country,178885
+Astija,city,354268,https://ismi.mpiwg-berlin.mpg.de/place/354268,Spain,country,174730
+Aswan,null,434061,https://ismi.mpiwg-berlin.mpg.de/place/434061,Egypt,country,173189
+Asyūt,city,486754,https://ismi.mpiwg-berlin.mpg.de/place/486754,Egypt,country,173189
+Austria,country,173483,https://ismi.mpiwg-berlin.mpg.de/place/173483,null,null,null
+Azerbaijan,country,178920,https://ismi.mpiwg-berlin.mpg.de/place/178920,null,null,null
+Azhar,madrasa,2066,https://ismi.mpiwg-berlin.mpg.de/place/2066,Cairo,city,85226
+Baalbek,city,87149,https://ismi.mpiwg-berlin.mpg.de/place/87149,null,null,null
+Badajoz,null,394897,https://ismi.mpiwg-berlin.mpg.de/place/394897,Spain,country,174730
+Baeza,null,438196,https://ismi.mpiwg-berlin.mpg.de/place/438196,Spain,country,174730
+Baghdad,city,167760,https://ismi.mpiwg-berlin.mpg.de/place/167760,Iraq,country,173298
+Bahrain,null,437004,https://ismi.mpiwg-berlin.mpg.de/place/437004,null,null,null
+Bakchesaray,city,87420,https://ismi.mpiwg-berlin.mpg.de/place/87420,Ukraine,country,173857
+Baku,city,87016,https://ismi.mpiwg-berlin.mpg.de/place/87016,Azerbaijan,country,178920
+Balad (Iraq),city_district,434389,https://ismi.mpiwg-berlin.mpg.de/place/434389,Iraq,country,173298
+Balıkesir,city,86680,https://ismi.mpiwg-berlin.mpg.de/place/86680,Turkey,country,174510
+Balkh,city,153791,https://ismi.mpiwg-berlin.mpg.de/place/153791,Afghanistan,country,179798
+Bangladesh,country,179186,https://ismi.mpiwg-berlin.mpg.de/place/179186,null,null,null
+Bankipore,city,40827,https://ismi.mpiwg-berlin.mpg.de/place/40827,null,null,null
+Barda (Barḏaʿaẗ),city,442398,https://ismi.mpiwg-berlin.mpg.de/place/442398,Azerbaijan,country,178920
+Barudi,city,86545,https://ismi.mpiwg-berlin.mpg.de/place/86545,null,null,null
+Baṣra,city,93607,https://ismi.mpiwg-berlin.mpg.de/place/93607,Iraq,country,173298
+Bayhaq,null,422190,https://ismi.mpiwg-berlin.mpg.de/place/422190,Khurāsān,city_district,310384
+Beirut,city,86325,https://ismi.mpiwg-berlin.mpg.de/place/86325,Lebanon,country,174621
+Belgium,country,179327,https://ismi.mpiwg-berlin.mpg.de/place/179327,null,null,null
+Berlin,city,87247,https://ismi.mpiwg-berlin.mpg.de/place/87247,Germany,country,174492
+Birgi,null,447960,https://ismi.mpiwg-berlin.mpg.de/place/447960,İzmir,city,49174
+"Birmingham, U.K.",city,86475,https://ismi.mpiwg-berlin.mpg.de/place/86475,UK,country,174533
+Alamūt,city,168025,https://ismi.mpiwg-berlin.mpg.de/place/168025,Iran,country,174469
+Bologna,city,88220,https://ismi.mpiwg-berlin.mpg.de/place/88220,Italy,country,173763
+Bombay,city,431413,https://ismi.mpiwg-berlin.mpg.de/place/431413,India,country,174638
+Bosnia/Herzegovina,country,179005,https://ismi.mpiwg-berlin.mpg.de/place/179005,null,null,null
+Boston,city,88049,https://ismi.mpiwg-berlin.mpg.de/place/88049,USA,country,173554
+Bourron,city,25201,https://ismi.mpiwg-berlin.mpg.de/place/25201,France,country,174775
+Bratislava,city,86686,https://ismi.mpiwg-berlin.mpg.de/place/86686,Slovakia,country,173935
+Brussels,city,88007,https://ismi.mpiwg-berlin.mpg.de/place/88007,Belgium,country,179327
+Budapest,city,88038,https://ismi.mpiwg-berlin.mpg.de/place/88038,Hungary,country,178964
+Bukhara,city,87068,https://ismi.mpiwg-berlin.mpg.de/place/87068,Uzbekistan,country,173272
+Bulgaria,country,449376,https://ismi.mpiwg-berlin.mpg.de/place/449376,null,null,null
+Burdur,city,88226,https://ismi.mpiwg-berlin.mpg.de/place/88226,Turkey,country,174510
+Damascus,city,85658,https://ismi.mpiwg-berlin.mpg.de/place/85658,Syria,country,174694
+Damietta,city,87313,https://ismi.mpiwg-berlin.mpg.de/place/87313,Egypt,country,173189
+Bursa,city,85627,https://ismi.mpiwg-berlin.mpg.de/place/85627,Turkey,country,174510
+Būzjān,city_district,152291,https://ismi.mpiwg-berlin.mpg.de/place/152291,null,null,null
+Cairo,city,85226,https://ismi.mpiwg-berlin.mpg.de/place/85226,Egypt,country,173189
+Calcutta,city,86381,https://ismi.mpiwg-berlin.mpg.de/place/86381,India,country,174638
+"Cambridge, MA",city,86439,https://ismi.mpiwg-berlin.mpg.de/place/86439,USA,country,173554
+"Cambridge, UK",city,86828,https://ismi.mpiwg-berlin.mpg.de/place/86828,UK,country,174533
+Canada,country,179459,https://ismi.mpiwg-berlin.mpg.de/place/179459,null,null,null
+Carmona,null,414387,https://ismi.mpiwg-berlin.mpg.de/place/414387,Spain,country,174730
+Central Asia,country,93084,https://ismi.mpiwg-berlin.mpg.de/place/93084,null,null,null
+Ceuta (northern Morocco),city,119665,https://ismi.mpiwg-berlin.mpg.de/place/119665,Spain,country,174730
+Constantinople,city,85210,https://ismi.mpiwg-berlin.mpg.de/place/85210,null,null,null
+Copenhagen,city,87876,https://ismi.mpiwg-berlin.mpg.de/place/87876,Denmark,country,179170
+Cordova (Spain),city,85178,https://ismi.mpiwg-berlin.mpg.de/place/85178,null,null,null
+Çorum,city,86378,https://ismi.mpiwg-berlin.mpg.de/place/86378,Turkey,country,174510
+Cremona,city,338465,https://ismi.mpiwg-berlin.mpg.de/place/338465,Italy,country,173763
+Fez,city,87971,https://ismi.mpiwg-berlin.mpg.de/place/87971,null,null,null
+Deccan,region,441543,https://ismi.mpiwg-berlin.mpg.de/place/441543,India,country,174638
+Denia (Spain),city,87127,https://ismi.mpiwg-berlin.mpg.de/place/87127,null,null,null
+Denmark,country,179170,https://ismi.mpiwg-berlin.mpg.de/place/179170,null,null,null
+Detroit,city,88072,https://ismi.mpiwg-berlin.mpg.de/place/88072,USA,country,173554
+Dhaka,city,86551,https://ismi.mpiwg-berlin.mpg.de/place/86551,Bangladesh,country,179186
+Dhamār,city,479550,https://ismi.mpiwg-berlin.mpg.de/place/479550,Yemen,country,178900
+Dīnawar,city,450324,https://ismi.mpiwg-berlin.mpg.de/place/450324,null,null,null
+Diyarbakir,city,87384,https://ismi.mpiwg-berlin.mpg.de/place/87384,Turkey,country,174510
+Doha,city,493137,https://ismi.mpiwg-berlin.mpg.de/place/493137,Qatar,country,493134
+Dresden,city,87480,https://ismi.mpiwg-berlin.mpg.de/place/87480,Germany,country,174492
+Dublin,city,86683,https://ismi.mpiwg-berlin.mpg.de/place/86683,Ireland,country,179659
+Dushanbe,city,87927,https://ismi.mpiwg-berlin.mpg.de/place/87927,Tajikistan,country,179518
+Écija,null,356027,https://ismi.mpiwg-berlin.mpg.de/place/356027,Spain,country,174730
+Edessa,city,328715,https://ismi.mpiwg-berlin.mpg.de/place/328715,null,null,null
+"Edinburgh, Scotland",city,87546,https://ismi.mpiwg-berlin.mpg.de/place/87546,UK,country,174533
+Edirne,city,85246,https://ismi.mpiwg-berlin.mpg.de/place/85246,Turkey,country,174510
+Egypt,country,173189,https://ismi.mpiwg-berlin.mpg.de/place/173189,null,null,null
+Elche (Andalusia),city,119513,https://ismi.mpiwg-berlin.mpg.de/place/119513,Spain,country,174730
+Erbil,null,437015,https://ismi.mpiwg-berlin.mpg.de/place/437015,null,null,null
+Erfurt,city,24616,https://ismi.mpiwg-berlin.mpg.de/place/24616,Germany,country,174492
+Erzincan,city,87114,https://ismi.mpiwg-berlin.mpg.de/place/87114,Turkey,country,174510
+Erzurum,city,270897,https://ismi.mpiwg-berlin.mpg.de/place/270897,Turkey,country,174510
+Ethiopia,country,330883,https://ismi.mpiwg-berlin.mpg.de/place/330883,null,null,null
+Farab,null,422251,https://ismi.mpiwg-berlin.mpg.de/place/422251,null,null,null
+Farghāna,city,333575,https://ismi.mpiwg-berlin.mpg.de/place/333575,null,null,null
+Fās,city,179766,https://ismi.mpiwg-berlin.mpg.de/place/179766,Morocco,country,173531
+Fatḥ-Nakr,city_district,441547,https://ismi.mpiwg-berlin.mpg.de/place/441547,Deccan,region,441543
+Giza,city,142708,https://ismi.mpiwg-berlin.mpg.de/place/142708,Egypt,country,173189
+Glasgow,city,86946,https://ismi.mpiwg-berlin.mpg.de/place/86946,UK,country,174533
+Golkanda,city,179423,https://ismi.mpiwg-berlin.mpg.de/place/179423,null,null,null
+Gotha,city,87176,https://ismi.mpiwg-berlin.mpg.de/place/87176,Germany,country,174492
+Florence,city,87757,https://ismi.mpiwg-berlin.mpg.de/place/87757,Italy,country,173763
+France,country,174775,https://ismi.mpiwg-berlin.mpg.de/place/174775,null,null,null
+Galata,null,529096,https://ismi.mpiwg-berlin.mpg.de/place/529096,Istanbul,city,85148
+Ġandagān (near Shiraz),city,140190,https://ismi.mpiwg-berlin.mpg.de/place/140190,Iran,country,174469
+Gaziantep (Ayntāb),city,447260,https://ismi.mpiwg-berlin.mpg.de/place/447260,Turkey,country,174510
+Gelibolu,city,525410,https://ismi.mpiwg-berlin.mpg.de/place/525410,null,null,null
+Georgia,country,179183,https://ismi.mpiwg-berlin.mpg.de/place/179183,null,null,null
+Germany,country,174492,https://ismi.mpiwg-berlin.mpg.de/place/174492,null,null,null
+Ghazna,city,153829,https://ismi.mpiwg-berlin.mpg.de/place/153829,Afghanistan,country,179798
+Gīlān (Iran),city,85304,https://ismi.mpiwg-berlin.mpg.de/place/85304,null,null,null
+Giresun,city,87304,https://ismi.mpiwg-berlin.mpg.de/place/87304,Turkey,country,174510
+Göttingen,city,1129,https://ismi.mpiwg-berlin.mpg.de/place/1129,Germany,country,174492
+Granada,city,88223,https://ismi.mpiwg-berlin.mpg.de/place/88223,Spain,country,174730
+Greece,country,71938,https://ismi.mpiwg-berlin.mpg.de/place/71938,null,null,null
+Guadix,null,436281,https://ismi.mpiwg-berlin.mpg.de/place/436281,Spain,country,174730
+Gülistan (Guliston),city,312817,https://ismi.mpiwg-berlin.mpg.de/place/312817,Uzbekistan,country,173272
+Gundeshapur [Gundēšāpūr] (Fars),city,327648,https://ismi.mpiwg-berlin.mpg.de/place/327648,Iran,country,174469
+Gurganj,city,85367,https://ismi.mpiwg-berlin.mpg.de/place/85367,null,null,null
+Hamadan,city,86943,https://ismi.mpiwg-berlin.mpg.de/place/86943,Iran,country,174469
+Ḥamāh,city,311328,https://ismi.mpiwg-berlin.mpg.de/place/311328,Syria,country,174694
+Hamburg,city,87597,https://ismi.mpiwg-berlin.mpg.de/place/87597,Germany,country,174492
+Harran,city,347936,https://ismi.mpiwg-berlin.mpg.de/place/347936,Turkey,country,174510
+Ḫujand,city,374418,https://ismi.mpiwg-berlin.mpg.de/place/374418,Tajikistan,country,179518
+Heidelberg,city,86434,https://ismi.mpiwg-berlin.mpg.de/place/86434,Germany,country,174492
+"Heraklion (Iraklion, Candia, Qandiya; in Crete)",city,71934,https://ismi.mpiwg-berlin.mpg.de/place/71934,Greece,country,71938
+Herat,null,374934,https://ismi.mpiwg-berlin.mpg.de/place/374934,Afghanistan,country,179798
+Ḫilāṭ [Aḫlāṭ],city,154074,https://ismi.mpiwg-berlin.mpg.de/place/154074,null,null,null
+Hungary,country,178964,https://ismi.mpiwg-berlin.mpg.de/place/178964,null,null,null
+Hyderabad,city,88276,https://ismi.mpiwg-berlin.mpg.de/place/88276,India,country,174638
+India,country,174638,https://ismi.mpiwg-berlin.mpg.de/place/174638,null,null,null
+Indonesia,country,173690,https://ismi.mpiwg-berlin.mpg.de/place/173690,null,null,null
+Iran,country,174469,https://ismi.mpiwg-berlin.mpg.de/place/174469,null,null,null
+Iraq,country,173298,https://ismi.mpiwg-berlin.mpg.de/place/173298,null,null,null
+Ireland,country,179659,https://ismi.mpiwg-berlin.mpg.de/place/179659,null,null,null
+Isfahan,city,87474,https://ismi.mpiwg-berlin.mpg.de/place/87474,Iran,country,174469
+Isfarain,city,384589,https://ismi.mpiwg-berlin.mpg.de/place/384589,Iran,country,174469
+Iṣṭaḫr,null,356327,https://ismi.mpiwg-berlin.mpg.de/place/356327,Iran,country,174469
+Istanbul,city,85148,https://ismi.mpiwg-berlin.mpg.de/place/85148,Turkey,country,174510
+Italy,country,173763,https://ismi.mpiwg-berlin.mpg.de/place/173763,null,null,null
+Jawhar,city,382383,https://ismi.mpiwg-berlin.mpg.de/place/382383,null,null,null
+Jayyān (Jaén),city,450367,https://ismi.mpiwg-berlin.mpg.de/place/450367,Andalusia,country,93261
+Jerusalem,city,87387,https://ismi.mpiwg-berlin.mpg.de/place/87387,Palestine/Israel,country,179483
+Jibla,city,86701,https://ismi.mpiwg-berlin.mpg.de/place/86701,Yemen,country,178900
+Jurjān,city,85370,https://ismi.mpiwg-berlin.mpg.de/place/85370,null,null,null
+Kabul,city,86618,https://ismi.mpiwg-berlin.mpg.de/place/86618,Afghanistan,country,179798
+Kaduna,city,87440,https://ismi.mpiwg-berlin.mpg.de/place/87440,Nigeria,country,178897
+Kairouan,city,87727,https://ismi.mpiwg-berlin.mpg.de/place/87727,null,null,null
+Kairouan (Qayrawān),city,87040,https://ismi.mpiwg-berlin.mpg.de/place/87040,null,null,null
+"Kapūrt’halah, India",city,33055,https://ismi.mpiwg-berlin.mpg.de/place/33055,India,country,174638
+Karaj,null,381807,https://ismi.mpiwg-berlin.mpg.de/place/381807,Iran,country,174469
+Karbala,city,87511,https://ismi.mpiwg-berlin.mpg.de/place/87511,null,null,null
+Kashan,city,488271,https://ismi.mpiwg-berlin.mpg.de/place/488271,Iran,country,174469
+Kashghar,city,155387,https://ismi.mpiwg-berlin.mpg.de/place/155387,null,null,null
+Kastamonu,city,87594,https://ismi.mpiwg-berlin.mpg.de/place/87594,Turkey,country,174510
+Kaṯ,city,155041,https://ismi.mpiwg-berlin.mpg.de/place/155041,null,null,null
+Kayseri,city,88310,https://ismi.mpiwg-berlin.mpg.de/place/88310,Turkey,country,174510
+Kazakhstan,null,382381,https://ismi.mpiwg-berlin.mpg.de/place/382381,null,null,null
+Kazan,city,86288,https://ismi.mpiwg-berlin.mpg.de/place/86288,Russia,country,174659
+Kazimiya,city,177048,https://ismi.mpiwg-berlin.mpg.de/place/177048,Iraq,country,173298
+Kazimiya,city,86520,https://ismi.mpiwg-berlin.mpg.de/place/86520,null,null,null
+Khar'kov,city,87173,https://ismi.mpiwg-berlin.mpg.de/place/87173,null,null,null
+Khurāsān,city_district,310384,https://ismi.mpiwg-berlin.mpg.de/place/310384,Turkmenistan,country,178885
+Khuttal,city,325429,https://ismi.mpiwg-berlin.mpg.de/place/325429,null,null,null
+Khuzistan,country,25264,https://ismi.mpiwg-berlin.mpg.de/place/25264,Iran,country,174469
+Khwārizm,country,310048,https://ismi.mpiwg-berlin.mpg.de/place/310048,Turkmenistan,country,178885
+Kiev,city,87477,https://ismi.mpiwg-berlin.mpg.de/place/87477,Ukraine,country,173857
+Kiliç,city,87152,https://ismi.mpiwg-berlin.mpg.de/place/87152,Turkey,country,174510
+Kilis,city,443803,https://ismi.mpiwg-berlin.mpg.de/place/443803,Turkey,country,174510
+Kirman,null,380989,https://ismi.mpiwg-berlin.mpg.de/place/380989,Iran,country,174469
+İzmir,city,49174,https://ismi.mpiwg-berlin.mpg.de/place/49174,Turkey,country,174510
+Iznik,city_district,447733,https://ismi.mpiwg-berlin.mpg.de/place/447733,Bursa,city,85627
+Jaén,null,395007,https://ismi.mpiwg-berlin.mpg.de/place/395007,Spain,country,174730
+Jaipur,city,86356,https://ismi.mpiwg-berlin.mpg.de/place/86356,India,country,174638
+Jakarta (formerly Batavia),city,86449,https://ismi.mpiwg-berlin.mpg.de/place/86449,Indonesia,country,173690
+Jāmiʿ Naqīb al-Juyūš,madrasa,271745,https://ismi.mpiwg-berlin.mpg.de/place/271745,null,null,null
+Lār,city,34602,https://ismi.mpiwg-berlin.mpg.de/place/34602,null,null,null
+Lebanon,country,174621,https://ismi.mpiwg-berlin.mpg.de/place/174621,null,null,null
+Leiden,city,86776,https://ismi.mpiwg-berlin.mpg.de/place/86776,Netherlands,country,174707
+Leipzig,city,87228,https://ismi.mpiwg-berlin.mpg.de/place/87228,Germany,country,174492
+Libya,country,178992,https://ismi.mpiwg-berlin.mpg.de/place/178992,null,null,null
+London,city,86645,https://ismi.mpiwg-berlin.mpg.de/place/86645,UK,country,174533
+"Los Angeles, CA",city,88247,https://ismi.mpiwg-berlin.mpg.de/place/88247,USA,country,173554
+Lucknow,city,86969,https://ismi.mpiwg-berlin.mpg.de/place/86969,India,country,174638
+Madras,city,87628,https://ismi.mpiwg-berlin.mpg.de/place/87628,India,country,174638
+Madrasa Kāmiliyya,madrasa,438040,https://ismi.mpiwg-berlin.mpg.de/place/438040,Cairo,city,85226
+Madrasa of Sultan al-Malik al-Ashraf Barsbāy,city,22073,https://ismi.mpiwg-berlin.mpg.de/place/22073,Cairo,city,85226
+Madrasah Šāh zādah Muḥammad Ḫān,madrasa,38142,https://ismi.mpiwg-berlin.mpg.de/place/38142,unknown country,country,200567
+Madrasaẗ Ilyās al-Mawlỳ ibn Ramaḍān,madrasa,23268,https://ismi.mpiwg-berlin.mpg.de/place/23268,null,null,null
+Madrasaẗ Šayḫ Muḥammad Afandī,madrasa,23251,https://ismi.mpiwg-berlin.mpg.de/place/23251,null,null,null
+Madrid,city,86912,https://ismi.mpiwg-berlin.mpg.de/place/86912,Spain,country,174730
+Maġrib,region,478778,https://ismi.mpiwg-berlin.mpg.de/place/478778,North Africa,country,93622
+Mahachqala,city,86446,https://ismi.mpiwg-berlin.mpg.de/place/86446,Russia,country,174659
+Makhachqala,city,87719,https://ismi.mpiwg-berlin.mpg.de/place/87719,Russia,country,174659
+Malaga,city,140728,https://ismi.mpiwg-berlin.mpg.de/place/140728,Spain,country,174730
+Malatya,city,85376,https://ismi.mpiwg-berlin.mpg.de/place/85376,Turkey,country,174510
+Manchester,city,87080,https://ismi.mpiwg-berlin.mpg.de/place/87080,UK,country,174533
+Manisa,city,87295,https://ismi.mpiwg-berlin.mpg.de/place/87295,Turkey,country,174510
+Marāgha,city,85354,https://ismi.mpiwg-berlin.mpg.de/place/85354,null,null,null
+Marāgha; Baghdad*,city,85558,https://ismi.mpiwg-berlin.mpg.de/place/85558,null,null,null
+Maraş (Kahramanmaraş),city,441899,https://ismi.mpiwg-berlin.mpg.de/place/441899,Turkey,country,174510
+Mardin,city,312831,https://ismi.mpiwg-berlin.mpg.de/place/312831,Turkey,country,174510
+Marrakech (Morocco),city,85336,https://ismi.mpiwg-berlin.mpg.de/place/85336,null,null,null
+Marw,city,153834,https://ismi.mpiwg-berlin.mpg.de/place/153834,Turkmenistan,country,178885
+Marwarrüḏ,null,390282,https://ismi.mpiwg-berlin.mpg.de/place/390282,Afghanistan,country,179798
+Mar`ashi,city,86575,https://ismi.mpiwg-berlin.mpg.de/place/86575,null,null,null
+Mashhad,city,87957,https://ismi.mpiwg-berlin.mpg.de/place/87957,Iran,country,174469
+Konya,city,87301,https://ismi.mpiwg-berlin.mpg.de/place/87301,Turkey,country,174510
+Kufa,city,93604,https://ismi.mpiwg-berlin.mpg.de/place/93604,Iraq,country,173298
+Kütahya,city,525086,https://ismi.mpiwg-berlin.mpg.de/place/525086,Turkey,country,174510
+Kuwait,country,440170,https://ismi.mpiwg-berlin.mpg.de/place/440170,null,null,null
+Kuwait City,city,440173,https://ismi.mpiwg-berlin.mpg.de/place/440173,Kuwait,country,440170
+Ladik,city,443486,https://ismi.mpiwg-berlin.mpg.de/place/443486,Turkey,country,174510
+Lahore,city,87930,https://ismi.mpiwg-berlin.mpg.de/place/87930,Pakistan,country,179735
+Māwaẗ,city_district,442709,https://ismi.mpiwg-berlin.mpg.de/place/442709,Sulaymaniyah,city,442705
+Mazandaran,region,498926,https://ismi.mpiwg-berlin.mpg.de/place/498926,Iran,country,174469
+Mecca,city,127632,https://ismi.mpiwg-berlin.mpg.de/place/127632,Saudi Arabia,country,179081
+Medina,city,87879,https://ismi.mpiwg-berlin.mpg.de/place/87879,Saudi Arabia,country,179081
+Mehdia,null,426724,https://ismi.mpiwg-berlin.mpg.de/place/426724,Tunisia,country,173557
+Mersin/Tarsus,city,318030,https://ismi.mpiwg-berlin.mpg.de/place/318030,Turkey,country,174510
+Merv,city,485679,https://ismi.mpiwg-berlin.mpg.de/place/485679,Turkmenistan,country,178885
+Milan,city,87404,https://ismi.mpiwg-berlin.mpg.de/place/87404,Italy,country,173763
+Mocha,city,69524,https://ismi.mpiwg-berlin.mpg.de/place/69524,Yemen,country,178900
+Montpelier,city,87483,https://ismi.mpiwg-berlin.mpg.de/place/87483,USA,country,173554
+Montreal,city,88035,https://ismi.mpiwg-berlin.mpg.de/place/88035,Canada,country,179459
+Morocco,country,173531,https://ismi.mpiwg-berlin.mpg.de/place/173531,null,null,null
+Moscow,city,86758,https://ismi.mpiwg-berlin.mpg.de/place/86758,Russia,country,174659
+Mosul,city,85483,https://ismi.mpiwg-berlin.mpg.de/place/85483,Iraq,country,173298
+Mysore,city,86422,https://ismi.mpiwg-berlin.mpg.de/place/86422,India,country,174638
+Najaf,city,87804,https://ismi.mpiwg-berlin.mpg.de/place/87804,Iraq,country,173298
+Nakhchivan,region,445345,https://ismi.mpiwg-berlin.mpg.de/place/445345,Azerbaijan,country,178920
+Nasā,city_district,310373,https://ismi.mpiwg-berlin.mpg.de/place/310373,Turkmenistan,country,178885
+Nasaf,null,428715,https://ismi.mpiwg-berlin.mpg.de/place/428715,null,null,null
+Navsari,city,87234,https://ismi.mpiwg-berlin.mpg.de/place/87234,India,country,174638
+Mukalla,null,530136,https://ismi.mpiwg-berlin.mpg.de/place/530136,Yemen,country,178900
+Mumbai,city,87556,https://ismi.mpiwg-berlin.mpg.de/place/87556,India,country,174638
+Munich,city,87231,https://ismi.mpiwg-berlin.mpg.de/place/87231,Germany,country,174492
+"Muradabad, India",city,87347,https://ismi.mpiwg-berlin.mpg.de/place/87347,null,null,null
+Murcia,null,431843,https://ismi.mpiwg-berlin.mpg.de/place/431843,Spain,country,174730
+North Africa,country,93622,https://ismi.mpiwg-berlin.mpg.de/place/93622,null,null,null
+Nūr Aḥmadiyya,madrasa,350648,https://ismi.mpiwg-berlin.mpg.de/place/350648,ʿAkkā,city_district,350573
+Netherlands,country,174707,https://ismi.mpiwg-berlin.mpg.de/place/174707,null,null,null
+"New Haven, CT",city,88323,https://ismi.mpiwg-berlin.mpg.de/place/88323,USA,country,173554
+New York,city,87609,https://ismi.mpiwg-berlin.mpg.de/place/87609,USA,country,173554
+Niğde,city,86603,https://ismi.mpiwg-berlin.mpg.de/place/86603,Turkey,country,174510
+Nigeria,country,178897,https://ismi.mpiwg-berlin.mpg.de/place/178897,null,null,null
+Niksar,city,482817,https://ismi.mpiwg-berlin.mpg.de/place/482817,Anatolia,region,482813
+Nīshābūr,city,85301,https://ismi.mpiwg-berlin.mpg.de/place/85301,null,null,null
+Nisibis,city,134677,https://ismi.mpiwg-berlin.mpg.de/place/134677,Syria,country,174694
+Niẓāmiyya,madrasa,43390,https://ismi.mpiwg-berlin.mpg.de/place/43390,Baghdad,city,167760
+Odessa,city,87742,https://ismi.mpiwg-berlin.mpg.de/place/87742,null,null,null
+Oran,city,156139,https://ismi.mpiwg-berlin.mpg.de/place/156139,Algeria,country,173275
+Osmancık,city_district,443952,https://ismi.mpiwg-berlin.mpg.de/place/443952,Çorum,city,86378
+Otlukbeli,city_district,517299,https://ismi.mpiwg-berlin.mpg.de/place/517299,Erzincan,city,87114
+Oxford,city,86816,https://ismi.mpiwg-berlin.mpg.de/place/86816,UK,country,174533
+Pakistan,country,179735,https://ismi.mpiwg-berlin.mpg.de/place/179735,null,null,null
+Palermo,city,276374,https://ismi.mpiwg-berlin.mpg.de/place/276374,Italy,country,173763
+Palestine/Israel,country,179483,https://ismi.mpiwg-berlin.mpg.de/place/179483,null,null,null
+Paris,city,86667,https://ismi.mpiwg-berlin.mpg.de/place/86667,France,country,174775
+Patiala (Kapurthala),city,87844,https://ismi.mpiwg-berlin.mpg.de/place/87844,India,country,174638
+Patna,city,86909,https://ismi.mpiwg-berlin.mpg.de/place/86909,India,country,174638
+Peshawar,city,88340,https://ismi.mpiwg-berlin.mpg.de/place/88340,Pakistan,country,179735
+"Philadelphia, PA",city,44417,https://ismi.mpiwg-berlin.mpg.de/place/44417,USA,country,173554
+Plovdiv (Filibe),city,449379,https://ismi.mpiwg-berlin.mpg.de/place/449379,Bulgaria,country,449376
+Princeton,city,86846,https://ismi.mpiwg-berlin.mpg.de/place/86846,USA,country,173554
+Qabadiyan (or Qubadiyan; modern Nosiri Khusrav in SE Tajikistan),city,153698,https://ismi.mpiwg-berlin.mpg.de/place/153698,Tajikistan,country,179518
+Qatar,country,493134,https://ismi.mpiwg-berlin.mpg.de/place/493134,null,null,null
+Qayrawan,city,174008,https://ismi.mpiwg-berlin.mpg.de/place/174008,Tunisia,country,173557
+Qazwīn,city,463432,https://ismi.mpiwg-berlin.mpg.de/place/463432,Iran,country,174469
+Qāʾin,city,167982,https://ismi.mpiwg-berlin.mpg.de/place/167982,Qūhistān,country,168047
+Qift,city,319018,https://ismi.mpiwg-berlin.mpg.de/place/319018,Egypt,country,173189
+Qinnasrin,city,326959,https://ismi.mpiwg-berlin.mpg.de/place/326959,Syria,country,174694
+Qūhistān,country,168047,https://ismi.mpiwg-berlin.mpg.de/place/168047,Iran,country,174469
+Qum,city,457991,https://ismi.mpiwg-berlin.mpg.de/place/457991,Iran,country,174469
+Rabat,city,86749,https://ismi.mpiwg-berlin.mpg.de/place/86749,Morocco,country,173531
+Rajab,city,86252,https://ismi.mpiwg-berlin.mpg.de/place/86252,Iraq,country,173298
+Rampur,city,86730,https://ismi.mpiwg-berlin.mpg.de/place/86730,India,country,174638
+Raqqa,null,363352,https://ismi.mpiwg-berlin.mpg.de/place/363352,null,null,null
+Rasht,city,88250,https://ismi.mpiwg-berlin.mpg.de/place/88250,Iran,country,174469
+Rayy,city,87984,https://ismi.mpiwg-berlin.mpg.de/place/87984,Iran,country,174469
+Rayy (Iran),city,85672,https://ismi.mpiwg-berlin.mpg.de/place/85672,null,null,null
+Rome,city,87533,https://ismi.mpiwg-berlin.mpg.de/place/87533,Italy,country,173763
+Russia,country,174659,https://ismi.mpiwg-berlin.mpg.de/place/174659,null,null,null
+Salamanca (Spain),city,108354,https://ismi.mpiwg-berlin.mpg.de/place/108354,Spain,country,174730
+Salé,city,179683,https://ismi.mpiwg-berlin.mpg.de/place/179683,Morocco,country,173531
+Samarqand,city,362860,https://ismi.mpiwg-berlin.mpg.de/place/362860,Uzbekistan,country,173272
+Samarra,city,329068,https://ismi.mpiwg-berlin.mpg.de/place/329068,Iraq,country,173298
+Samsun,city,502402,https://ismi.mpiwg-berlin.mpg.de/place/502402,Turkey,country,174510
+San Lorenzo de El Escorial,city_district,163900,https://ismi.mpiwg-berlin.mpg.de/place/163900,Spain,country,174730
+Sana`a,city,87660,https://ismi.mpiwg-berlin.mpg.de/place/87660,Yemen,country,178900
+Saragossa (Spain),city,85151,https://ismi.mpiwg-berlin.mpg.de/place/85151,null,null,null
+Sarai (Saraj or Saray),country,320173,https://ismi.mpiwg-berlin.mpg.de/place/320173,Sarai (Saraj or Saray),country,320173
+Sarajevo,city,87807,https://ismi.mpiwg-berlin.mpg.de/place/87807,Bosnia/Herzegovina,country,179005
+Sarakhs,city,331126,https://ismi.mpiwg-berlin.mpg.de/place/331126,Iran,country,174469
+Serakhs,city,313825,https://ismi.mpiwg-berlin.mpg.de/place/313825,Turkmenistan,country,178885
+Seville,city,140114,https://ismi.mpiwg-berlin.mpg.de/place/140114,Spain,country,174730
+Sfax (Tunisia),city,119509,https://ismi.mpiwg-berlin.mpg.de/place/119509,Tunisia,country,173557
+Shahrazur,null,433318,https://ismi.mpiwg-berlin.mpg.de/place/433318,Iraq,country,173298
+Shibin al-Qum,city,86746,https://ismi.mpiwg-berlin.mpg.de/place/86746,Egypt,country,173189
+Shikohabad,city,455703,https://ismi.mpiwg-berlin.mpg.de/place/455703,India,country,174638
+Shiraz,city,85653,https://ismi.mpiwg-berlin.mpg.de/place/85653,Iran,country,174469
+Shirvān‎,null,446245,https://ismi.mpiwg-berlin.mpg.de/place/446245,Azerbaijan,country,178920
+"Shirwān, Shamākhi",city,4404,https://ismi.mpiwg-berlin.mpg.de/place/4404,Azerbaijan,country,178920
+Sicily,country,141246,https://ismi.mpiwg-berlin.mpg.de/place/141246,Italy,country,173763
+Sidon,city_district,350578,https://ismi.mpiwg-berlin.mpg.de/place/350578,Lebanon,country,174621
+Sijistan,null,376768,https://ismi.mpiwg-berlin.mpg.de/place/376768,null,null,null
+Siraf,null,360314,https://ismi.mpiwg-berlin.mpg.de/place/360314,Iran,country,174469
+Sīwās (NE Turkey),city,85537,https://ismi.mpiwg-berlin.mpg.de/place/85537,null,null,null
+Slovakia,country,173935,https://ismi.mpiwg-berlin.mpg.de/place/173935,null,null,null
+Spain,country,174730,https://ismi.mpiwg-berlin.mpg.de/place/174730,null,null,null
+Sartakht,city,85534,https://ismi.mpiwg-berlin.mpg.de/place/85534,null,null,null
+Satarāh,city,456861,https://ismi.mpiwg-berlin.mpg.de/place/456861,India,country,174638
+Saudi Arabia,country,179081,https://ismi.mpiwg-berlin.mpg.de/place/179081,null,null,null
+"St Andrews, Fife, Scotland",city_district,393060,https://ismi.mpiwg-berlin.mpg.de/place/393060,UK,country,174533
+St. Petersburg,city,87260,https://ismi.mpiwg-berlin.mpg.de/place/87260,Russia,country,174659
+Stockholm,city,74460,https://ismi.mpiwg-berlin.mpg.de/place/74460,null,null,null
+Strasbourg,city,86689,https://ismi.mpiwg-berlin.mpg.de/place/86689,France,country,174775
+Suhraward,null,437147,https://ismi.mpiwg-berlin.mpg.de/place/437147,null,null,null
+Sulaymaniyah,city,442705,https://ismi.mpiwg-berlin.mpg.de/place/442705,Iraq,country,173298
+Sumaysat,null,374813,https://ismi.mpiwg-berlin.mpg.de/place/374813,Syria,country,174694
+Sweden,country,178937,https://ismi.mpiwg-berlin.mpg.de/place/178937,null,null,null
+Syria,country,174694,https://ismi.mpiwg-berlin.mpg.de/place/174694,null,null,null
+Tabaristan,city,314816,https://ismi.mpiwg-berlin.mpg.de/place/314816,Iran,country,174469
+Tabrīz,city,484892,https://ismi.mpiwg-berlin.mpg.de/place/484892,Iran,country,174469
+Taft,null,412619,https://ismi.mpiwg-berlin.mpg.de/place/412619,Yazd,city,87675
+Segovia,city,276430,https://ismi.mpiwg-berlin.mpg.de/place/276430,Spain,country,174730
+Tajikistan,country,179518,https://ismi.mpiwg-berlin.mpg.de/place/179518,null,null,null
+Takrit,city,142459,https://ismi.mpiwg-berlin.mpg.de/place/142459,Iraq,country,173298
+Taku,city,85640,https://ismi.mpiwg-berlin.mpg.de/place/85640,null,null,null
+Tazeghedra,city,473519,https://ismi.mpiwg-berlin.mpg.de/place/473519,Morocco,country,173531
+Tbilisi,city,87569,https://ismi.mpiwg-berlin.mpg.de/place/87569,Georgia,country,179183
+Tehran,city,86384,https://ismi.mpiwg-berlin.mpg.de/place/86384,Iran,country,174469
+Terjān,city,85113,https://ismi.mpiwg-berlin.mpg.de/place/85113,null,null,null
+Test City,null,348362,https://ismi.mpiwg-berlin.mpg.de/place/348362,null,null,null
+Tetuan,city,86874,https://ismi.mpiwg-berlin.mpg.de/place/86874,Morocco,country,173531
+Tangier,city,87437,https://ismi.mpiwg-berlin.mpg.de/place/87437,Morocco,country,173531
+"Tarim, Yemen",city,86233,https://ismi.mpiwg-berlin.mpg.de/place/86233,Yemen,country,178900
+Tarsus,city,359019,https://ismi.mpiwg-berlin.mpg.de/place/359019,null,null,null
+Tashkent,city,86548,https://ismi.mpiwg-berlin.mpg.de/place/86548,Uzbekistan,country,173272
+Tiflis (Tbilisi),city,25277,https://ismi.mpiwg-berlin.mpg.de/place/25277,Georgia,country,179183
+Tlemcen,city,321561,https://ismi.mpiwg-berlin.mpg.de/place/321561,Algeria,country,173275
+Tokat,city,443439,https://ismi.mpiwg-berlin.mpg.de/place/443439,Turkey,country,174510
+Toledo,city,140646,https://ismi.mpiwg-berlin.mpg.de/place/140646,Spain,country,174730
+Tonk,city,86779,https://ismi.mpiwg-berlin.mpg.de/place/86779,null,null,null
+Toronto,city,38689,https://ismi.mpiwg-berlin.mpg.de/place/38689,Canada,country,179459
+Tortosa (Catalonia),city,108386,https://ismi.mpiwg-berlin.mpg.de/place/108386,Spain,country,174730
+Trebizond (Trabzon),city,19074,https://ismi.mpiwg-berlin.mpg.de/place/19074,null,null,null
+Tripoli,city,86507,https://ismi.mpiwg-berlin.mpg.de/place/86507,Libya,country,178992
+Tübingen,city,86533,https://ismi.mpiwg-berlin.mpg.de/place/86533,Germany,country,174492
+Tunis,city,86632,https://ismi.mpiwg-berlin.mpg.de/place/86632,Tunisia,country,173557
+Tunisia,country,173557,https://ismi.mpiwg-berlin.mpg.de/place/173557,null,null,null
+Turin,city,86305,https://ismi.mpiwg-berlin.mpg.de/place/86305,Italy,country,173763
+Turkey,country,174510,https://ismi.mpiwg-berlin.mpg.de/place/174510,null,null,null
+Turkmenistan,country,178885,https://ismi.mpiwg-berlin.mpg.de/place/178885,null,null,null
+Ṭūs,city,85545,https://ismi.mpiwg-berlin.mpg.de/place/85545,null,null,null
+Ufa,city,87257,https://ismi.mpiwg-berlin.mpg.de/place/87257,Russia,country,174659
+UK,country,174533,https://ismi.mpiwg-berlin.mpg.de/place/174533,null,null,null
+Ukraine,country,173857,https://ismi.mpiwg-berlin.mpg.de/place/173857,null,null,null
+UNKNOWN,null,350677,https://ismi.mpiwg-berlin.mpg.de/place/350677,null,null,null
+unknown city is part of Canada,city,179446,https://ismi.mpiwg-berlin.mpg.de/place/179446,Canada,country,179459
+unknown city is part of Germany,city,177105,https://ismi.mpiwg-berlin.mpg.de/place/177105,Germany,country,174492
+unknown city is part of Iran,city,173343,https://ismi.mpiwg-berlin.mpg.de/place/173343,Iran,country,174469
+unknown city is part of Iraq,city,179801,https://ismi.mpiwg-berlin.mpg.de/place/179801,Iraq,country,173298
+unknown city is part of Morocco,city,176454,https://ismi.mpiwg-berlin.mpg.de/place/176454,Morocco,country,173531
+unknown city is part of unknown country,city,200570,https://ismi.mpiwg-berlin.mpg.de/place/200570,unknown country,country,200567
+unknown country,country,200567,https://ismi.mpiwg-berlin.mpg.de/place/200567,null,null,null
+Upal,city,155747,https://ismi.mpiwg-berlin.mpg.de/place/155747,null,null,null
+Uppsala,city,86266,https://ismi.mpiwg-berlin.mpg.de/place/86266,Sweden,country,178937
+USA,country,173554,https://ismi.mpiwg-berlin.mpg.de/place/173554,null,null,null
+Uskudar,city_district,447130,https://ismi.mpiwg-berlin.mpg.de/place/447130,Istanbul,city,85148
+Uzbekistan,country,173272,https://ismi.mpiwg-berlin.mpg.de/place/173272,null,null,null
+Valencia,city,142599,https://ismi.mpiwg-berlin.mpg.de/place/142599,Spain,country,174730
+Vatican City,city,38383,https://ismi.mpiwg-berlin.mpg.de/place/38383,Vatican City State,country,43921
+Vatican City State,country,43921,https://ismi.mpiwg-berlin.mpg.de/place/43921,null,null,null
+Yedikule,city_district,501761,https://ismi.mpiwg-berlin.mpg.de/place/501761,Istanbul,city,85148
+Yemen,country,178900,https://ismi.mpiwg-berlin.mpg.de/place/178900,null,null,null
+Yerevan,city,87640,https://ismi.mpiwg-berlin.mpg.de/place/87640,Armenia,country,173852
+Yozgat,city,87882,https://ismi.mpiwg-berlin.mpg.de/place/87882,Turkey,country,174510
+Zabid,city,87199,https://ismi.mpiwg-berlin.mpg.de/place/87199,null,null,null
+Zabid,city,483787,https://ismi.mpiwg-berlin.mpg.de/place/483787,Yemen,country,178900
+Ẓāhiriyya Juwāniyya madrasa,madrasa,498785,https://ismi.mpiwg-berlin.mpg.de/place/498785,Damascus,city,85658
+Zahra (suburb of Cordova),city,108247,https://ismi.mpiwg-berlin.mpg.de/place/108247,Spain,country,174730
+Zanjān,city_district,458112,https://ismi.mpiwg-berlin.mpg.de/place/458112,Iran,country,174469
+Zaragoza,city,142614,https://ismi.mpiwg-berlin.mpg.de/place/142614,Spain,country,174730
+Vienna,city,87037,https://ismi.mpiwg-berlin.mpg.de/place/87037,Austria,country,173483
+Wādyāš,null,436967,https://ismi.mpiwg-berlin.mpg.de/place/436967,Spain,country,174730
+Wann (Khuzistan),city,142516,https://ismi.mpiwg-berlin.mpg.de/place/142516,Iran,country,174469
+Washington D.C.,city,87833,https://ismi.mpiwg-berlin.mpg.de/place/87833,USA,country,173554
+Wāsiṭ,city,458696,https://ismi.mpiwg-berlin.mpg.de/place/458696,Iraq,country,173298
+Wāsiṭa (south of Cordoba),city,141626,https://ismi.mpiwg-berlin.mpg.de/place/141626,Spain,country,174730
+Wrocław,city,164884,https://ismi.mpiwg-berlin.mpg.de/place/164884,null,null,null
+Yamgan (or Yomgan; in NE Afghanistan),city,153749,https://ismi.mpiwg-berlin.mpg.de/place/153749,Afghanistan,country,179798
+Yazd,city,87675,https://ismi.mpiwg-berlin.mpg.de/place/87675,Iran,country,174469
+ʿAkkā,city_district,350573,https://ismi.mpiwg-berlin.mpg.de/place/350573,Palestine/Israel,country,179483
+ʿAyn Zarba,city,431559,https://ismi.mpiwg-berlin.mpg.de/place/431559,null,null,null
